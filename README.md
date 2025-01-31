@@ -22,7 +22,7 @@ This tutorial outlines the tickets and ticket lifecyle of the open-source help d
 
 - Create Tickets as an end user
 - Observe and Respond as help desk professional
-- Set properties to the ticket
+- Set properties to the appropriate ticket
 
 <h2>Installation Steps</h2>
 
@@ -37,14 +37,11 @@ This tutorial outlines the tickets and ticket lifecyle of the open-source help d
 <img <img width="669" alt="Screenshot 2025-01-31 at 13 37 06" src="https://github.com/user-attachments/assets/cca30644-39c5-4a1a-ac28-df00d05d90e5" />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this section of the lab, I am assigning tickets to the appropriate properties based on their severity and the expertise required to address the issue.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img <img width="668" alt="Screenshot 2025-01-31 at 18 05 50" src="https://github.com/user-attachments/assets/f90e6f05-6985-4ff9-8a9c-29e71980b638" />
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
